@@ -1,5 +1,5 @@
 let i = 0;
-let text1 = "Hey! Nardo.";
+let text1 = "Hey Nardo 👋";
 let text2 = "Hope you see this!"
 let speed = 100;
 
