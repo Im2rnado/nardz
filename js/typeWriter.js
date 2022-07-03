@@ -1,7 +1,7 @@
 let i = 0;
-let text1 = "How did you find this⁉️";
-let text2 = "It's supposed to be for Nardo"
-let speed = 100;
+let text1 = "looks like you found this...";
+let text2 = "ily nardeen <3"
+let speed = 200;
 
 function typeWriter(text, para){
 	if(ok == 2){
@@ -10,7 +10,7 @@ function typeWriter(text, para){
 	if(i < text.length){
 		document.getElementById(para).innerHTML += text.charAt(i);
 		i++;
-		speed = Math.random() * 50 + 100;
+		speed = Math.random() * 50 + 200;
 	}
 	else{
 		if(ok == 0){
