@@ -42,22 +42,27 @@
 #timer{
 	text-align: center;
 	color: white;
+        font-family: Sans-Serif;
 }
 
 #d{
 	font-size: 19px;
+        font-family: Sans-Serif;
 }
 
 #h{
 	font-size: 19px;
+        font-family: Sans-Serif;
 }
 
 #m{
 	font-size: 19px;
+        font-family: Sans-Serif;
 }
 
 #s{
 	font-size: 19px;
+        font-family: Sans-Serif;
 }
 
 #heartTxt{
@@ -78,6 +83,7 @@
 	width: 100%;
 	text-align: center;
 	color: white;
+        font-family: Sans-Serif;
 }
 
 #heart{
@@ -96,7 +102,6 @@
 	transition: 0.1s;
 	width: 100%;
 	height: 100%;
-
 }
 
 #button:active {
