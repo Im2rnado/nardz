@@ -13,11 +13,13 @@
 	font-size: 16px;
 	text-align: center;
 	color: white;
+        font-family: Sans-Serif;
 }
 #txt2 {
 	font-size: 16px;
 	text-align: center;
 	color: white;
+        font-family: Sans-Serif;
 }
 
 #content{
@@ -34,6 +36,7 @@
 	font-size: 25px;
 	text-align: center;
 	color: white;
+        font-family: Sans-Serif;
 }
 
 #timer{
@@ -83,7 +86,7 @@
 }
 
 #button{
-	background-image: url("../pic/love.png");
+	background-image: url("../pic/love.PNG");
 	background-repeat: no-repeat;
 	background-size: contain;
 	background-color: transparent;
@@ -128,6 +131,7 @@
 	width: 100%;
 	text-align: center;
 	color: white;
+        font-family: Sans-Serif;
 }
 
 #tmp{
@@ -136,4 +140,5 @@
 	width: 100%;
 	text-align: center;
 	color: white;
+        font-family: Sans-Serif;
 }
