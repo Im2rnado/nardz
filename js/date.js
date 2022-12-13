@@ -5,7 +5,7 @@ var val = 0;
 function timer(){
 	// var start = new Date(2022, 3, 11, 21, 07);
 	// var t = new Date() - start;
-	var start = new Date(2023, 1, 24, 23, 59);
+	var start = new Date(2023, 0, 24, 23, 59);
 	var t = start - new Date();
 	var d = Math.floor(t / 1000 / 60 / 60 / 24);
 	var h = Math.floor(t / 1000 / 60 / 60 % 24);
